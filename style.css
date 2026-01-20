@@ -152,7 +152,7 @@ a {
       rgba(229, 220, 229, 0.4),
       rgba(229, 220, 229, 0)
     ),
-    url("../assets/images/banner_four_ex.png") no-repeat center/cover;
+    url("assets/images/banner_one_ex.png") no-repeat center/cover;
   border-radius: 20px;
   text-align: center;
 }
